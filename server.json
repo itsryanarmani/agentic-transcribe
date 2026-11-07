@@ -2,7 +2,7 @@
   "name": "agentic-transcribe",
   "version": "0.1.0",
   "description": "Transcribe one audio file with timestamps.",
-  "repository": "https://github.com/pooriaarab/agentic-transcribe",
+  "repository": "https://github.com/itsryanarmani/agentic-transcribe",
   "command": "npx",
   "args": ["-y", "agentic-transcribe", "mcp"]
 }
